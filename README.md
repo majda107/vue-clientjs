@@ -1,5 +1,7 @@
 # majda-clientjs
 
+Live example at https://sleepy-sinoussi-e2f3ad.netlify.app/
+
 ## Project setup
 ```
 npm install
